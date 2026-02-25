@@ -66,4 +66,4 @@ Pull requests are welcome! 🙌 If you'd like to improve Vintage Haven:
 ## **📞 Contact**  
 Have questions or suggestions? Reach out! 📧  
 
-💡 **Created by [notlukas18](https://github.com/javohir-io)**  
+💡 **Created by [javohir-io](https://github.com/javohir-io)**  
